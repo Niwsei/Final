@@ -15,6 +15,7 @@ pnpm-lock.yaml
 pnpm-workspace.yaml
 /backend/pnpm-lock.yaml
 /backend/pnpm-workspace.yaml
+/backend/node_modules
 # testing
 /coverage
 
